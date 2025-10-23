@@ -1,12 +1,14 @@
-## Hi there 👋
+<div>
+
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+</div>
 
 <!--
 **Jeronimo6344/Jeronimo6344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -13,7 +13,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a student from South Korea.<br/>
   #### :fire: I aim to become a Data Analyst.<br/>
-  #### :mortar_board: Bachelor of mathematics, Dongguk University(DGU)
+  #### :mortar_board: Bachelor of mathematics, double major in Department of Economics at Dongguk University(DGU)
   <br/>
   <br/>
 

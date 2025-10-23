@@ -8,9 +8,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Data Analyst from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: I am a student from South Korea.<br/>
+  #### :fire: I aim to become a Data Analyst.<br/>
+  #### :mortar_board: Bachelor of mathematics, Dongguk University(DGU)
   <br/>
   <br/>
 

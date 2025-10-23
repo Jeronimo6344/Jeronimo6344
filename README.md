@@ -19,7 +19,7 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-00549E.svg?style=for-the-badge&logo=Python&logoColor=FFD859" /><br/>
   <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=MySQL&logoColor=61DAFB" />
 
 </div>
 

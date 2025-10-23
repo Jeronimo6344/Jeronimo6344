@@ -17,15 +17,15 @@
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=MySQL&logoColor=61DAFB" /><br/>
   <br/>
   ### Tools
   <!--Github-->
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" /><br/>
   <!--Notion-->
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /><br/>
 
 </div>
 

@@ -18,7 +18,7 @@
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Python-2322F0.svg?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-007ACC.svg?style=for-the-badge&logo=Python&logoColor=FFD859" />
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 

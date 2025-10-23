@@ -1,7 +1,7 @@
 <div>
 
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97-nl-%20-nl-My%20name%20is%20Jeronimo)
+  ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 </div>
 
 <!--

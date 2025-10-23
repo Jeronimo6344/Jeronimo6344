@@ -30,6 +30,9 @@
   <!--Notion-->
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /><br/>
 
+  ##  :kissing: Me Now
+  ![Programmers Badge](https://raw.githubusercontent.com/Jeronimo6344/Programmers_Badge_Generator/main/result/result.svg)
+  
 </div>
 
 <!--

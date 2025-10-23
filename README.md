@@ -4,6 +4,25 @@
   ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
 </div>
 
+<div>
+  <!--Body-->
+  
+  ## 👀 About Me
+  #### :raising_hand: I am a Data Analyst from South Korea.<br/>
+  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  <br/>
+  <br/>
+
+  ## 🧱 Tech Stack
+  ### Language
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--MySQL-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+</div>
+
 <!--
 **Jeronimo6344/Jeronimo6344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

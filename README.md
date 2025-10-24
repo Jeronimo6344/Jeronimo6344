@@ -2,7 +2,7 @@
 
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Jeronimo)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Seongyu+Kim)](https://git.io/typing-svg)
 
   
 </div>

@@ -20,7 +20,7 @@
   ## 🧱 Tech Stack
   ### [Language]
   <!--Python-->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ECD53F" /><br/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFCC01" /><br/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=MySQL&logoColor=8BC0D0" /><br/>
   <br/>
